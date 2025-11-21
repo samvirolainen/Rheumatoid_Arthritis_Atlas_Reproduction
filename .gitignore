@@ -1,0 +1,60 @@
+# ----------------------------------------
+# OS FILES (Mac, Windows)
+# ----------------------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------------------
+# R / RStudio Files
+# ----------------------------------------
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# R Markdown backup files
+*.utf8.md
+*.knit.md
+
+# R environment files
+.Renviron
+.Rprofile
+
+# ----------------------------------------
+# Python / Jupyter Files (if used)
+# ----------------------------------------
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# ----------------------------------------
+# Single-cell Data (IMPORTANT)
+# NEVER commit raw or processed data
+# ----------------------------------------
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Large objects (Seurat, RDS, H5, H5AD, etc.)
+*.rds
+*.Rds
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.h5Seurat
+
+# GEO/SRA/Synapse downloads
+*.gz
+*.zip
+*.tar
+*.tar.gz
+*.fastq
+*.fq
+*.bam
+*.bai
+*.vcf
+*.bgen
