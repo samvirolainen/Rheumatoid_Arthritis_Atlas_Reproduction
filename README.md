@@ -9,7 +9,7 @@ Raw and processed data from the publication are **not distributed** in this repo
 Users must obtain data directly from the original publication or associated repositories.
 
 ## Environment
-A reproducible Conda environment (`environment.yml`) will be added once analysis begins.
+A reproducible Conda environment for this project is included in `environment.yml`.
 
 ## License
 This project’s code is released under the MIT License (see `LICENSE`).
