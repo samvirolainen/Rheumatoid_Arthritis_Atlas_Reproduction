@@ -12,7 +12,7 @@ Thumbs.db
 .RData
 .Ruserdata
 .Rproj.user/
-*.Rproj
+
 
 # R Markdown backup files
 *.utf8.md
