@@ -1,7 +1,7 @@
-# Rheumatoid Arthritis Synovial Single-Cell Atlas — Reproduction & Extension
--A computational biology project aimed at reproducing and extending the key single-cell analyses from Zhang et al. (2023, Nature)
+# Rheumatoid Arthritis Single-Cell Atlas — Reproduction & Extension
+-A computational biology project aimed at reproducing and extending the key single-cell analyses 
 ## Project Goals
-- Reproduce key analyses from Zhang et al. 2023 (Nature) https://www.nature.com/articles/s41586-023-06708-y
+- Reproduce key analyses 
 - Extend results with new computational analyses to integrate RA human genetics data 
 
 ## Data Availability
